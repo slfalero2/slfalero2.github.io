@@ -1,11 +1,11 @@
 # Site settings
 author: Stephanie Falero
-title: 
+title: My Reason WHY
 header-img: img/home-bg.png
 email: slfalero2@gmail.com
 copyright_name: Stephanie Falero
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Why I chose to pursue Software Engineering with Flatiron School
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  slfalero2
